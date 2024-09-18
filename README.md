@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- <img width="40%" src="https://github.com/SeongboHa/SLAM_tutorials/blob/main/imgs/EKF_SLAM_gif.gif"/> -->
-  <img width="50%" src="https://github.com/Riboha/victoria_pygraph_slam/tree/main/imgs/graph_SLAM_gif.gif"/>
+  <img width="50%" src="https://github.com/Riboha/victoria_pygraph_slam/blob/main/imgs/graph_SLAM_gif.gif"/>
 </p>
 
 ## On Ubuntu 20.04
@@ -55,9 +55,9 @@ docker run -it -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY=$DISPLAY -e USER=$USE
 - Attach our container to vscode
   - Enter Remote Explorer menu and click attach button
 
-    <img width="50%" src="https://github.com/Riboha/victoria_pygraph_slam/tree/main/imgs/docker_vscode_attach.png"/>
+    <img width="50%" src="https://github.com/Riboha/victoria_pygraph_slam/blob/main/imgs/docker_vscode_attach.png"/>
 - Demo code will be cloned into /root/victoria_pygraph_slam in the container. Open this folder.
 
-  <img width="50%" src="https://github.com/Riboha/victoria_pygraph_slam/tree/main/imgs/docker_vscode_openfolder.png"/>
+  <img width="50%" src="https://github.com/Riboha/victoria_pygraph_slam/blob/main/imgs/docker_vscode_openfolder.png"/>
 
 - Open pose_graph_slam/pose_graph_slam.ipynb file with editor and run the code.
